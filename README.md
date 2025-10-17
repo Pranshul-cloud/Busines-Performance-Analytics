@@ -3,3 +3,6 @@ An interactive 3-page Power BI dashboard analyzing business performance across r
 ---
 
 
+![Uber Dashboard](https://github.com/Pranshul-cloud/Uber-Ride-Cancellation-Analysis/blob/main/02-Dashboard.png)
+![Uber Dashboard](https://github.com/Pranshul-cloud/Uber-Ride-Cancellation-Analysis/blob/main/02-Dashboard.png)
+![Uber Dashboard](https://github.com/Pranshul-cloud/Uber-Ride-Cancellation-Analysis/blob/main/02-Dashboard.png)
