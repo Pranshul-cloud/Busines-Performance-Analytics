@@ -9,7 +9,7 @@ An interactive 3-page Power BI dashboard analyzing business performance across r
 
 ---
 
-![Uber Dashboard](https://github.com/Pranshul-cloud/Busines-Performance-Analytics/blob/main/Dashboard.pnh/Sales_%26_Profit_Deep_Dive.png)
+![Uber Dashboard](https://github.com/Pranshul-cloud/Busines-Performance-Analytics/blob/main/Dashboard.png/Sales_%26_Profit_DeepDive.png)
 
 ---
 
