@@ -19,6 +19,7 @@ An interactive 3-page Power BI dashboard analyzing business performance across r
 
 
 ## 📌 Project Overview
+
 A comprehensive Power BI analysis designed to track and evaluate global **sales and profit performance**. The dashboard provides granular insights across geographical markets, product categories, and payment methods to inform strategic planning and growth initiatives.
 ---
 
