@@ -37,17 +37,17 @@ A comprehensive Power BI analysis designed to track and evaluate global **sales 
 | **Total Sales** | **174.46M** |
 | **Total Profit** | **26.20M** |
 | Total Quantity | 5,467 |
-
+---
 ### 2. Geographical Performance
 | Sales Leader | Profit Leader | Key Insight |
 | :--- | :--- | :--- |
 | **India** (41.60M) | **USA** (6.2M Profit) | The **USA** is the most profitable market despite lower total sales than India, suggesting superior profit margins or higher transaction value. |
 | East Region (47.31M) | (Implied North America/Europe) | Sales are highest in the **East** region. |
-
+---
 ### 3. Product Profitability
 - **Highest Sales & Profit:** **Mobile Phones** and **Headphones** are the top-performing product sub-categories.
 - **Low Performance:** **Laptops** show a significant drop-off in both sales and profit contribution.
-
+---
 ### 4. Transaction & Customer Value
 - **Top Payment Mode:** **UPI** is the most utilized payment method, driving the highest share of both sales (~26.53%) and profit.
 - **Top Customer:** CUST-794 (**Michelle Meza**) is the most valuable customer, with over $\text{INR } 499\text{K}$ in sales.
